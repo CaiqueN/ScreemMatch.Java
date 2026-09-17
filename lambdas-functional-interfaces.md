@@ -1,4 +1,4 @@
-# Lambdas, Interfaces Funcionais e Generics em Java
+ # Lambdas, Interfaces Funcionais e Generics em Java
 
 Anotações de estudo consolidando as dúvidas e exemplos trabalhados sobre **interfaces funcionais**, **lambdas**, **generics** e conceitos relacionados (`Math`, `StringBuilder`, `equals`).
 
